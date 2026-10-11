@@ -58,10 +58,3 @@ k3s-flux-chaos-labs/
 ```
 
 ---
-
-```text
->> Executing structural analysis checks...
-Total Discovered Scenarios: 30 / 30
-Total Conforming Sandboxes: 30 / 30
-[PROCEED] Structural alignment verified. Pipeline ready for execution cycles. (Exit Code: 0)
-```
