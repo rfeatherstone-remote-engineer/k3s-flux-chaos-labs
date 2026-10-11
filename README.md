@@ -59,17 +59,6 @@ k3s-flux-chaos-labs/
 
 ---
 
-## 📊 Performance & Operational Metrics
-
-| Engineering Attribute | Production Metric State | Verification Standard | System Compliance Status |
-| :--- | :--- | :--- | :--- |
-| **Vulnerability Lab Scale** | **30 Unique Sandboxes** | 100% Taxonomic Verification | **100% Passing** |
-| **Memory Footprint Limit** | **< 4GB Guest VM Ceiling** | Non-Persistent Line Stream Parsing | **100% Optimized** |
-| **External Package Imports**| **0% Third-Party Modules** | Native Python Standard Library | **100% Secured** |
-| **Network Egress Boundaries**| **Trusted Subnet Only** | Conflict-Free Port 25 Socket Probes | **100% Air-Gapped** |
-
-### Execution Pipeline Validation Status
-Running the centralized orchestration engine baseline validation test confirms a clean exit code 0 status frame:
 ```text
 >> Executing structural analysis checks...
 Total Discovered Scenarios: 30 / 30
